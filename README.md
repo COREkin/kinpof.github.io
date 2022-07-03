@@ -13,3 +13,6 @@ Core Kin의 [포트폴리오 사이트](https://corekin.github.io/kinpof.github.
   </tr>
 </table>
 
+## Acknowledgments
+
+Thanks to [BootstrapThemes.co](http://BootstrapThemes.co) for free template.
