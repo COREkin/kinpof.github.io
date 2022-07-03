@@ -10,7 +10,8 @@
 -->
 
 Core Kin의 [포트폴리오 사이트](https://corekin.github.io/kinpof.github.io/)를 관리하기 위한 레포지터리입니다.
- ---
+
+---
 
 ## Contributors
 
